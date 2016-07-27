@@ -2,4 +2,4 @@
 
 # Botlist 官网
 
-###演示地址：http://lcsoul.cn/demos/lo-timyo/
+###演示地址：http://lcsoul.cn/demos/lo-botlist/
